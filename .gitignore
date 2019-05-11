@@ -1,2 +1,4 @@
-# Ignore the models folder
+# Ignore the extra folders folder
 models
+docs
+deliverables
